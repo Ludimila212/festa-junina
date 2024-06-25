@@ -8,3 +8,6 @@ jurado.atribuir_nota(rhaenys, 5, 5, 5, 5)
 jurado.atribuir_nota(rhaenys, 6, 6, 6, 6)
 
 print(rhaenys)
+
+def main():
+    pass
