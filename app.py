@@ -8,7 +8,7 @@ thiago = Aluno('Thiago', 'TI', 'Mister')
 
 jurado = Jurado('Daemon', 'Educacional')
 jurado = Jurado('Lucerys', 'Educacional')
-jurado = Jurado('Alicent', 'Educacional')
+jurado = Jurado('Healena', 'Educacional')
 
 jurado.atribuir_nota(rhaenys, 5, 5, 5, 5)
 jurado.atribuir_nota(laena, 6, 6, 6, 6)
